@@ -20,6 +20,10 @@ Install Jenkins
 	sudo apt-get update
 	sudo apt-get install jenkins
 
+After applying IP with 8080 port to the webbrowser
+
+	sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
 
 
 
